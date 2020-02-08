@@ -7,3 +7,8 @@ MNINST-rのデータセットを使用しました。
 
 日本語で技術ブログも書きました。
 https://masamasa59.hatenablog.com/entry/2019/12/29/152732
+
+# Prerequisites
+python 3.7.5  
+torch 1.3.1  
+numpy 1.17.4  
